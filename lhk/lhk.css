@@ -1,0 +1,15 @@
+body {background-color: wheat;}
+li {list-style: none; padding:10px}
+ul {padding: 50px;}
+
+@font-face {
+    font-family: 'Ansungtangmyun-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/Ansungtangmyun-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root{
+    --lhk-font-Ansungtangmyun-Bold: 'Ansungtangmyun-Bold';
+    --bs-body-font-family: var(--lhk-font-Ansungtangmyun-Bold);
+  }

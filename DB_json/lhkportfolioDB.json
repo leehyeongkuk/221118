@@ -1,0 +1,55 @@
+[
+    {
+        "titleImg" : "/lhkjson/img/main/ad/1.jpg",
+        "thumbImg" : ["/lhkjson/img/thumb/ad/1.jpg", 
+        "/lhkjson/img/thumb/ad/2.jpg", 
+        "/lhkjson/img/thumb/ad/3.jpg"
+        ],
+        "descriptionH2" : "우와아아아아아아 다음주월드컵이다",
+        "description": ["이렇게 저렇게 만들었으니 나 데꼬가 기획서기획서기획서기획서",
+                      "기획서기획서기획서기획서기획서기획서기획서기획서기획서기획서기획서",
+                      "기획서기획서기획서기획서기획서기획서기획서기획서기획서기획서기획서",
+                      "기획서기획서기획서기획서기획서기획서"],
+        "pLinkinfo" : [{
+            "iconCs":"text-dark fs-5",
+            "iconText":"구글드라이브",
+            "iconLink":"https://www.google.com"
+        }]
+    },
+    {
+        "titleImg" : "/lhkjson/img/main/ad/1.jpg",
+        "thumbImg" : [
+            ],
+        "descriptionH2" : "리액트소개페이지",
+        "description": "깃에서 다운로드받아서 스스로 npm start하든가",
+        "pLinkinfo" : [{
+            "iconCs":"text-dark fs-5",
+            "iconText":"깃허브",
+            "iconLink":"https://www.github.com/leehyeongkuk"
+        },
+        {
+            "iconCs":"text-dark fs-5",
+            "iconText":"사이트",
+            "iconLink":"https://www.naver.com"
+        }
+    ]
+    },
+    {
+        "titleImg" : "/lhkjson/img/main/ad/1.jpg",
+        "thumbImg" : [
+            ],
+        "descriptionH2" : "EC솔루션 프론트엔드(Front-End) 개발",
+        "description": "성능 개선을 위한 아이콘 svg처리와 레스터이미지 배경처리",
+        "pLinkinfo" : [{
+            "iconCs":"text-dark fs-5",
+            "iconText":"깃허브",
+            "iconLink":"https://www.github.com/leehyeongkuk"
+        },
+        {
+            "iconCs":"text-dark fs-5",
+            "iconText":"사이트",
+            "iconLink":"https://www.naver.com"
+        }
+    ]
+    }
+]
